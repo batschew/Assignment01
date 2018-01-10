@@ -5,7 +5,7 @@ import java.text.NumberFormat;
  * Assignment 01
  * Course IT2045 Section 001
  * Due Date: Jan 16, 2018
- * Description: Create a an eclipse java project that contains a stub class to calculate compound interest
+ * Description: Create a an eclipse java project to calculate compound interest
  * Citations: N/A
  * 
  */
